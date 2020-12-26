@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "nodemon": "^2.0.1"
+    "nodemon": "^2.0.1",
+    "mquery": ">=3.2.3"
   }
 }
